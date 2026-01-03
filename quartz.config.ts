@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
-    locale: "zh-CN",
+    locale: "en-US",
     baseUrl: "qphu-wiki", // 部署时改成你的仓库名或自定义域名
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",

@@ -1,52 +1,52 @@
 ---
-title: 回响城
+title: Resonance City
 aliases:
-  - Resonance City
-  - 外部世界
+  - The City
+  - Outside World
 tags:
   - world
   - location
 ---
 
-# 回响城
+# Resonance City
 
-> *灰蒙蒙的天空下，所有人都在说同样的话。*
+> *Under a perpetually gray sky, everyone speaks the same words.*
 
-回响城是[[world/shadow-academy|影子学院]]所在的城市，也是这个世界的缩影——精致、冰冷、被管控。
+Resonance City is where the [[world/shadow-academy|Shadow Academy]] floats above—a microcosm of this world: exquisite, cold, controlled.
 
-## 氛围
+## Atmosphere
 
-- **视觉**：灰蒙蒙的天、人工植物、废弃物堆积的"坟场区"、精致但冰冷的建筑
-- **听觉**：地铁报站声循环播放，所有人说着同样的话
-- **嗅觉**：淡淡的消毒水味，无处不在
-- **触感**：拥挤、被压缩、快节奏
+- **Visual**: Gray skies, artificial plants, "graveyards" of abandoned tech, buildings sleek but cold
+- **Sound**: Subway announcements on loop, everyone saying the same things
+- **Smell**: A faint scent of disinfectant, everywhere
+- **Touch**: Crowded, compressed, fast-paced
 
-## 城市区域
+## City Districts
 
-回响城被划分为多个区块，每个区域有不同的情绪质感：
+Resonance City is divided into distinct zones, each with its own emotional texture:
 
-| 区域 | 氛围 |
-|------|------|
-| [[locations/masquerade-district\|假面舞会区]] | 上层社会的伪装之地，戴面具才能进入 |
-| [[locations/compression-blocks\|压缩区块]] | 数据单元式居住，边缘人群的容身处 |
-| [[locations/hospital-cemetery\|医院/墓地连结区]] | 记忆残存者和梦境实验失败者的归宿 |
-| [[locations/censorship-zone\|审查区]] | 对话被"自动和谐"，情绪表达被标记为危险 |
-| [[locations/bar-district\|酒吧区]] | 夜晚边缘人的释放之地 |
-| [[locations/fringe-culture\|边缘文化聚落]] | 非注册创作者的漂流地 |
-| [[locations/urban-village\|城中村]] | 空间会消失或转移的非法存在 |
+| District | Atmosphere |
+|----------|------------|
+| [[locations/masquerade-district\|Masquerade District]] | Where the upper class performs; masks required for entry |
+| [[locations/compression-blocks\|Compression Blocks]] | Data-unit housing for the marginalized |
+| [[locations/hospital-cemetery\|Hospital-Cemetery Nexus]] | Where memory-remnants and failed dream-subjects end up |
+| [[locations/censorship-zone\|Censorship Zone]] | Speech is "auto-harmonized"; emotional expression flagged as dangerous |
+| [[locations/bar-district\|Bar District]] | Where the marginalized find release at night |
+| [[locations/fringe-culture\|Fringe Culture Enclaves]] | Drifting grounds for unregistered creators |
+| [[locations/urban-village\|Urban Villages]] | Illegal spaces that shift or disappear |
 
-## 梦境审查
+## Dream Censorship
 
-回响城最重要的特征：**这里的人没有影子**。
+The city's defining feature: **people here have no shadows.**
 
-不是因为他们纯净，而是因为城市运行着系统性的[[systems/dream-space#梦境审查|梦境审查机制]]。梦被过滤，[[systems/shadows|影子]]就生成不了。
+Not because they're pure—but because the city runs a systematic [[systems/dream-space#dream-censorship|dream censorship]] mechanism. Dreams are filtered out, so [[systems/shadows|shadows]] cannot form.
 
-没有影子的人不需要"整合"，不需要"变形"。他们只是...空的。
+People without shadows don't need "integration," don't need "transformation." They're simply... empty.
 
-## 与学院的关系
+## Relationship with the Academy
 
-[[world/shadow-academy|影子学院]]悬浮在回响城上空，通过特殊的交通工具连接。学院是城市的一部分，却又与城市隔离——这种既属于又不属于的状态，定义了学院的处境。
+[[world/shadow-academy|Shadow Academy]] floats above Resonance City, connected by special transport. The Academy belongs to the city yet is isolated from it—this state of belonging-yet-not-belonging defines its predicament.
 
 ---
 
-*参见：[[world/shadow-academy|影子学院]] · [[systems/shadows|影子]] · [[world/history|历史]]*
+*See also: [[world/shadow-academy|Shadow Academy]] · [[systems/shadows|Shadows]] · [[world/history|History]]*

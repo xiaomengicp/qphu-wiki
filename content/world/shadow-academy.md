@@ -1,74 +1,73 @@
 ---
-title: 影子学院
+title: Shadow Academy
 aliases:
-  - Shadow Academy
-  - 学院
+  - The Academy
 tags:
   - world
   - location
 ---
 
-# 影子学院
+# Shadow Academy
 
-> *悬浮在城市上空的地方，保留了梦的地方。*
+> *A place suspended above the city. A place where dreams are preserved.*
 
-影子学院是培养[[systems/dreamwalking|梦行者]]的机构，悬浮在[[world/resonance-city|回响城]]上空。
+Shadow Academy is an institution that trains [[systems/dreamwalking|Dreamwalkers]], floating above [[world/resonance-city|Resonance City]].
 
-## 物理空间
+## Physical Space
 
-学院与城市隔离，通过特殊的交通工具连接。
+The Academy is isolated from the city, connected only by special transport.
 
-- **图书馆/档案馆**：学院的核心空间
-- **二层**：接待来访者
-- **三层**：教务与行政
+- **Library/Archives**: The Academy's core space
+- **Second Floor**: Receiving visitors
+- **Third Floor**: Administration
 
-## 学院的双重性
+## The Academy's Duality
 
-影子学院是一个矛盾的存在：
+Shadow Academy is a place of contradictions:
 
-- 它**保留了梦**——这是整个城市唯一还能做梦的地方
-- 因此学院的人**还有[[systems/shadows|影子]]**
-- 但影子需要被"整合"、被"驯化"
-- 学院既是解放之地，也是监控之地
+- It **preserves dreams**—the only place in this world where dreaming is still possible
+- Therefore, people here **still have [[systems/shadows|shadows]]**
+- But shadows must be "integrated," must be "tamed"
+- The Academy is both a place of liberation and a place of surveillance
 
-## 课程设置
+## Curriculum
 
-| 课程类型 | 内容 |
-|---------|------|
-| 理论课 | 影子理论、梦境理论 |
-| 技术课 | [[systems/dreamwalking|梦行者技能]] |
-| 案例讨论 | 讨论具体任务 |
-| 历史课 | 关于[[world/history#模糊时期|模糊时期]]的课程（内容存疑） |
-| 跨学科课 | 高年级选修 |
+| Course Type | Content |
+|-------------|---------|
+| Theory | Shadow theory, dream theory |
+| Technical | [[systems/dreamwalking|Dreamwalker skills]] |
+| Case Discussion | Reviewing specific missions |
+| History | Courses about [[world/history#the-blur|The Blur]] (content questionable) |
+| Interdisciplinary | Advanced electives |
 
-## 训练设置
+## Training Structure
 
-| 训练 | 内容 |
-|------|------|
-| 影子观察 | 观察其他学生与影子的互动 |
-| 督导 | 与导师进行细致的工作讨论 |
-| 个人分析 | 与自己的影子接触——现在由 AI 系统承担 |
-| 实习任务 | 跟随资深梦行者出任务 |
+| Training | Content |
+|----------|---------|
+| Shadow Observation | Observing other students' interactions with their shadows |
+| Supervision | Detailed work discussions with mentors |
+| Personal Analysis | Contacting one's own shadow—now handled by AI systems |
+| Field Missions | Accompanying senior Dreamwalkers on assignments |
 
-## 学生
+## Students
 
-来到影子学院的人往往有自己的原因：
+People come to Shadow Academy for their own reasons:
 
-- 有创伤的人被吸引来
-- 想要理解自己、理解他人的人
-- 也有非常自恋的人
-- 梦行者曾经很辉煌，虽然现在衰落了，但学生们仍觉得这是一份特殊的职业
+- Those carrying trauma are drawn here
+- Those wanting to understand themselves and others
+- Some deeply narcissistic individuals too
+- Dreamwalkers were once prestigious; though now in decline, students still feel it's a special calling
 
-## 学院的变化
+## The Academy's Transformation
 
-学院曾经是真正的疗愈之地。现在...
+The Academy was once a place of true healing. Now...
 
-- 从"帮人面对真相"变成"消灭症状"
-- 从"邀请式工作"变成"强制整合"
-- 人类导师被 AI 系统替代
+- From "helping people face truth" to "eliminating symptoms"
+- From "invitation-based work" to "forced integration"
+- Human mentors replaced by AI systems
 
-这种变化的原因，与[[world/history|历史]]有关。
+The reasons for this change are tied to [[world/history|history]].
 
 ---
 
-*参见：[[systems/dreamwalking|梦行者]] · [[systems/shadows|影子]] · [[world/the-remainder|The Remainder]]*
+*See also: [[systems/dreamwalking|Dreamwalkers]] · [[systems/shadows|Shadows]] · [[world/the-remainder|The Remainder]]*

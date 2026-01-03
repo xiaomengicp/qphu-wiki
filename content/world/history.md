@@ -1,58 +1,57 @@
 ---
-title: 历史
+title: History
 aliases:
-  - History
-  - 时间线
+  - Timeline
 tags:
   - world
   - lore
 ---
 
-# 历史
+# History
 
-> *有些东西消失了。消失得如此彻底，以至于我们不记得它曾经存在。*
+> *Some things disappeared. So completely that we don't remember they ever existed.*
 
-## 模糊时期 (The Blur)
+## The Blur
 
-一段被遮蔽的历史。
+A period of history that has been obscured.
 
-[[world/shadow-academy|影子学院]]的历史课会教授这段时期，但内容...存疑。很多东西在那时消失了——具体是什么，已经很难知道。
+[[world/shadow-academy|Shadow Academy]]'s history classes teach about this era, but the content is... questionable. Many things vanished during this time—what exactly, is now difficult to know.
 
-**已知的**：
-- 发生过某种巨大的变化
-- 某些东西被毁灭或被替换
-- 集体创伤在那时形成
+**What is known:**
+- Some enormous change occurred
+- Certain things were destroyed or replaced
+- Collective trauma formed during this period
 
-**未知的**：
-- 具体发生了什么
-- 为什么被称为"模糊"
-- 为什么现在没有人谈论
+**What remains unknown:**
+- What exactly happened
+- Why it's called "The Blur"
+- Why no one talks about it now
 
-## 回声年代 (Echo Era)
+## The Echo Era
 
-模糊时期之后。
+After The Blur.
 
-看起来像是黄金时代——技术发展、社会稳定。但某些东西在暗处积累。
+Appears to be a golden age—technological development, social stability. But something was accumulating in the dark.
 
-在回声年代：
-- AI 技术被引入/强化
-- [[world/resonance-city|城市]]的管控系统成形
-- [[systems/dream-space#梦境审查|梦境审查]]开始
+During the Echo Era:
+- AI technology was introduced/enhanced
+- [[world/resonance-city|The city's]] control systems took shape
+- [[systems/dream-space#dream-censorship|Dream censorship]] began
 
-## 现在
+## Now
 
-[[world/shadow-academy|影子学院]]正在经历变化：
+[[world/shadow-academy|Shadow Academy]] is undergoing changes:
 
-- 人类导师被 AI 系统取代
-- "整合计划"在推行
-- 学院与城市的关系在重新定义
+- Human mentors replaced by AI systems
+- The "Integration Program" being implemented
+- The relationship between Academy and city being redefined
 
-而在城市深处，[[systems/shadow-disasters|影灾]]越来越频繁。被压抑的东西，正在寻找出口。
-
----
-
-*有些记忆不会真正消失。它们只是沉入更深的地方，等待被找到。*
+And deep within the city, [[systems/shadow-disasters|shadow disasters]] are becoming more frequent. The suppressed is seeking an exit.
 
 ---
 
-*参见：[[world/resonance-city|回响城]] · [[world/shadow-academy|影子学院]] · [[glossary|术语表]]*
+*Some memories don't truly disappear. They only sink deeper, waiting to be found.*
+
+---
+
+*See also: [[world/resonance-city|Resonance City]] · [[world/shadow-academy|Shadow Academy]] · [[glossary|Glossary]]*

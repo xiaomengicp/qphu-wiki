@@ -1,54 +1,53 @@
 ---
-title: 影灾
+title: Shadow Disasters
 aliases:
   - Shadow Disaster
-  - Shadow Disasters
 tags:
   - system
 ---
 
-# 影灾
+# Shadow Disasters
 
-> *被压抑的东西，正在寻找出口。*
+> *The suppressed is seeking an exit.*
 
-影灾是当被压抑的[[systems/shadows|影子]]集体爆发，形成区域性的情绪灾难。
+Shadow disasters occur when suppressed [[systems/shadows|shadows]] erupt collectively, forming regional emotional catastrophes.
 
-## 为什么会发生
+## Why They Happen
 
-在[[world/resonance-city|回响城]]：
-- [[systems/dream-space#梦境审查|梦境审查]]过滤掉了梦
-- 影子没有真正消失，只是被深埋
-- 压抑的东西越来越多
+In [[world/resonance-city|Resonance City]]:
+- [[systems/dream-space#dream-censorship|Dream censorship]] filters out dreams
+- Shadows don't truly disappear; they're only deeply buried
+- The suppressed accumulates more and more
 
-当压力超过临界点：
-- 裂缝出现
-- 影子从[[systems/dream-space|梦境空间]]涌出
-- 情绪像瘟疫一样传播
+When pressure exceeds critical mass:
+- Cracks appear
+- Shadows surge out from [[systems/dream-space|dream spaces]]
+- Emotions spread like plague
 
-## 影灾类型
+## Types of Shadow Disasters
 
-| 类型 | 描述 |
-|------|------|
-| **野生影子** | 失去归属的影子在城市游荡 |
-| **区域噩梦** | 某个区域陷入集体噩梦 |
-| **情绪瘟疫** | 情绪像传染病一样扩散 |
-| **空间撕裂** | 梦境空间与现实的边界破裂 |
+| Type | Description |
+|------|-------------|
+| **Wild Shadows** | Unaffiliated shadows wandering the city |
+| **Regional Nightmares** | An entire zone falls into collective nightmare |
+| **Emotional Plague** | Emotions spread like contagion |
+| **Spatial Tears** | The boundary between dream space and reality ruptures |
 
-## 官方处理 vs [[world/the-remainder|The Remainder]] 处理
+## Official Response vs. [[world/the-remainder|The Remainder's]] Response
 
-| 类型 | 官方做法 | The Remainder 做法 |
-|------|---------|------------------|
-| 野生影子 | 驱散、管制 | 安抚、让它们找到归属 |
-| 区域噩梦 | 强制唤醒、药物 | 进入噩梦内部、找到核心情绪、转化 |
-| 情绪瘟疫 | 隔离区域、压制表达 | 找到源头情绪、让它流动 |
-| 空间撕裂 | 封锁、等它消散 | 进入裂缝、从内部稳定 |
+| Type | Official Approach | The Remainder's Approach |
+|------|-------------------|-------------------------|
+| Wild Shadows | Disperse, regulate | Soothe, help them find belonging |
+| Regional Nightmares | Forced awakening, medication | Enter the nightmare's interior, find the core emotion, transform |
+| Emotional Plague | Quarantine zones, suppress expression | Find the source emotion, let it flow |
+| Spatial Tears | Lockdown, wait for dissipation | Enter the crack, stabilize from within |
 
-## 讽刺
+## The Irony
 
-整合计划声称要解决影灾。
+The Integration Program claims to solve shadow disasters.
 
-但它实际上在**制造**影灾——越多的影子被压抑，越多的压力在积累，越多的裂缝会出现。
+But it actually **creates** them—the more shadows are suppressed, the more pressure accumulates, the more cracks appear.
 
 ---
 
-*参见：[[systems/shadows|影子]] · [[systems/dream-space|梦境空间]] · [[systems/dreamwalking|梦行者]]*
+*See also: [[systems/shadows|Shadows]] · [[systems/dream-space|Dream Space]] · [[systems/dreamwalking|Dreamwalkers]]*

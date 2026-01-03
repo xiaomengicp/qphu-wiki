@@ -1,7 +1,7 @@
 ---
 title: Echo
 aliases:
-  - Rin的影子
+  - Rin's Shadow
 tags:
   - character
   - main
@@ -9,38 +9,38 @@ tags:
 
 # Echo
 
-> *等待被回应的回声。*
+> *An echo waiting to be answered.*
 
-Echo 是 [[characters/rin|Rin]] 的[[systems/shadows|影子]]——被切割的自我部分。
+Echo is [[characters/rin|Rin's]] [[systems/shadows|shadow]]—the severed part of self.
 
-## 性质
+## Nature
 
-Echo 不是驯化的影子，也不是协商的影子。他是**原始状态**的影子：
+Echo is not a tamed shadow, nor a negotiated shadow. He is a **primal** shadow:
 
-- 轮廓锐利，颜色浓烈
-- 有自己的意志
-- 与 Rin 分不开，又被 Rin 隔离
+- Sharp outlines, intense colors
+- Has his own will
+- Inseparable from Rin, yet isolated by Rin
 
-## 名字的含义
+## The Meaning of the Name
 
-Echo——回声。
+Echo—a reverberation.
 
-等待被听见的声音。
-被发出却没有被回应的呼唤。
-在空旷的地方反复回荡，直到消失。
+A voice waiting to be heard.
+A call sent out but never answered.
+Bouncing repeatedly through empty spaces, until it fades.
 
-或者，直到有人终于回应。
+Or, until someone finally answers.
 
-## 与 Rin 的关系
+## Relationship with Rin
 
-Echo 和 Rin 之间有复杂的情感：
+Echo and Rin share a complex bond:
 
-- 被切割的愤怒
-- 被遗忘的痛
-- 想要靠近又想要推开
+- The rage of being severed
+- The pain of being forgotten
+- Wanting to draw close yet wanting to push away
 
-他们是彼此的一部分，却长期处于解离状态。
+They are parts of each other, yet have long been in a state of dissociation.
 
 ---
 
-*参见：[[characters/rin|Rin]] · [[characters/eda|Eda]] · [[systems/shadows|影子]]*
+*See also: [[characters/rin|Rin]] · [[characters/eda|Eda]] · [[systems/shadows|Shadows]]*

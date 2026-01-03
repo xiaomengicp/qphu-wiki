@@ -1,63 +1,63 @@
 ---
-title: 梦境空间
+title: Dream Space
 aliases:
-  - Dream Space
-  - 梦境
+  - Dreams
+  - Dream Spaces
 tags:
   - system
   - core
 ---
 
-# 梦境空间
+# Dream Space
 
-> *梦是海面的波浪，梦境空间是海底的地形。*
+> *Dreams are waves on the ocean surface; dream space is the terrain beneath.*
 
-## 三层结构
+## Three-Layer Structure
 
-| 层 | 名称 | 性质 | 比喻 |
-|---|------|------|------|
-| 表层 | 现实世界 | 可见的日常 | 海面 |
-| 中层 | 梦 | 每晚的波动，暂时、流动 | 波浪 |
-| 深层 | 梦境空间 | 持续的内心世界，[[systems/shadows\|影子]]居住的地方 | 海底地形 |
+| Layer | Name | Nature | Metaphor |
+|-------|------|--------|----------|
+| Surface | Reality | Visible daily life | Ocean surface |
+| Middle | Dreams | Nightly fluctuations, temporary, flowing | Waves |
+| Deep | Dream Space | Persistent inner world, where [[systems/shadows\|shadows]] dwell | Ocean floor |
 
-## 梦 vs 梦境空间
+## Dreams vs. Dream Space
 
-|  | 梦 | 梦境空间 |
-|---|---|---|
-| 什么时候存在 | 睡觉时 | 一直存在 |
-| 性质 | 暂时、流动、每晚不同 | 持续、稳定、是这个人的核心结构 |
-| 内容 | 当天碎片、情绪、混乱画面 | 创伤、记忆、影子 |
-| 关系 | 是梦境空间的"表面波动" | 是梦的"深层结构" |
+|  | Dreams | Dream Space |
+|---|--------|-------------|
+| When it exists | During sleep | Always |
+| Nature | Temporary, flowing, different each night | Persistent, stable, a person's core structure |
+| Content | Day's fragments, emotions, chaotic images | Trauma, memories, shadows |
+| Relationship | "Surface fluctuations" of dream space | "Deep structure" underlying dreams |
 
-某些梦会沉淀到梦境空间，成为永久的一部分。
+Certain dreams settle into dream space, becoming permanent parts.
 
-## 影子从梦里来
+## Shadows Come from Dreams
 
-这是核心机制：**梦生成影子**。
+This is the core mechanism: **dreams generate shadows.**
 
-- 没有梦 → 生成不了影子
-- [[world/resonance-city|城市]]的梦境审查 → 过滤掉梦 → 城市人没有影子
-- [[world/shadow-academy|学院]]保留了梦 → 学院的人有影子
+- No dreams → no shadows can form
+- [[world/resonance-city|The city's]] dream censorship → filters out dreams → city people have no shadows
+- [[world/shadow-academy|The Academy]] preserves dreams → Academy people have shadows
 
-## 梦境审查
+## Dream Censorship
 
-城市运行着系统性的梦境过滤机制。
+The city runs a systematic dream filtering mechanism.
 
-被审查的人不是梦境空间变得干净——而是变得像**黑洞**。所有东西都被埋藏在里面，比正常的影子还要暴虐。
+People who've been censored don't have clean dream spaces—they're like **black holes**. Everything is buried inside, more violent than normal shadows.
 
-影子没有真正消失，只是被深埋。
+Shadows don't truly disappear; they're only deeply buried.
 
-## 裂缝
+## Cracks
 
-裂缝是进入他人梦境空间的入口。
+Cracks are entry points into others' dream spaces.
 
-**何时出现**：
-- 情绪动了的时刻
-- 压抑的东西快要涌出的时刻
-- [[systems/shadow-disasters|影灾]]发生时
+**When they appear:**
+- Moments when emotions stir
+- Moments when the suppressed is about to surge out
+- During [[systems/shadow-disasters|shadow disasters]]
 
-[[systems/dreamwalking|梦行者]]通过感知找到裂缝，通过破解进入。
+[[systems/dreamwalking|Dreamwalkers]] find cracks through perception, enter through breach.
 
 ---
 
-*参见：[[systems/shadows|影子]] · [[systems/dreamwalking|梦行者]] · [[systems/shadow-disasters|影灾]]*
+*See also: [[systems/shadows|Shadows]] · [[systems/dreamwalking|Dreamwalkers]] · [[systems/shadow-disasters|Shadow Disasters]]*

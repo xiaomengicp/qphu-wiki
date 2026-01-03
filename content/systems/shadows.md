@@ -1,57 +1,56 @@
 ---
-title: 影子
+title: Shadows
 aliases:
   - Shadow
-  - Shadows
 tags:
   - system
   - core
 ---
 
-# 影子
+# Shadows
 
-> *不是"坏"的东西。是被否认的东西。*
+> *Not something "bad." Something denied.*
 
-影子是这个世界的核心概念——被切割、被压抑的自我部分。
+Shadows are this world's core concept—the severed, suppressed parts of the self.
 
-## 影子是什么
+## What Shadows Are
 
-- 从[[systems/dream-space|梦]]中生成
-- 没有梦 → 生成不了影子
-- 不是需要消灭的敌人，而是需要面对的自己
+- Generated from [[systems/dream-space|dreams]]
+- No dreams → no shadows can form
+- Not enemies to be eliminated, but parts of oneself to be faced
 
-**核心比喻**：影子本来是狼，被驯化成了狗。
+**Core metaphor**: Shadows were once wolves, now tamed into dogs.
 
-## 影子的四种状态
+## The Four States of Shadows
 
-| 状态 | 描述 | 视觉呈现 |
-|------|------|----------|
-| **原始** | 与人分不开，有自己的意志 | 轮廓锐利，颜色浓烈，有神采 |
-| **协商** | 与人合作，有脾气但可以对话 | 各有形态，像独立的生命，自由移动 |
-| **驯化** | 听从指令，被控制 | 颜色褪淡，动作整齐，眼神"乖" |
-| **几乎没有** | 被[[world/resonance-city#梦境审查|梦境审查]]过滤 | 非常淡或看不到 |
+| State | Description | Visual Appearance |
+|-------|-------------|-------------------|
+| **Primal** | Inseparable from the person, has its own will | Sharp outlines, intense colors, spirited |
+| **Negotiated** | Cooperates with the person, has temperament but can dialogue | Varied forms, like independent beings, moves freely |
+| **Tamed** | Obeys commands, controlled | Faded colors, synchronized movements, eyes look "obedient" |
+| **Nearly None** | Filtered out by [[world/resonance-city#dream-censorship|dream censorship]] | Very faint or invisible |
 
-## 影子的出现方式
+## How Shadows Manifest
 
-| 状态 | 表现 |
-|------|------|
-| 缓慢浮现 | 像墨水在水中扩散，边缘模糊，慢慢成形 |
-| 失控爆发 | 像玻璃碎裂，瞬间出现，伴随温度骤变 |
-| 被驯化的影子 | 从佩环/徽章处被"调出"，整齐，听指令 |
-| 原始的影子 | 轮廓清晰锐利，有自己的意志 |
+| State | Appearance |
+|-------|------------|
+| Slow emergence | Like ink diffusing in water, edges blurring, slowly taking form |
+| Uncontrolled eruption | Like glass shattering, instant appearance, accompanied by sudden temperature changes |
+| Tamed shadow | "Called out" from badges/rings, orderly, follows commands |
+| Primal shadow | Sharp and clear outlines, its own will |
 
-## 驯化器
+## The Taming Device
 
-驯化的影子通过**配饰、徽章或佩环**控制——可以把影子调出来、收起来的物理工具。
+Tamed shadows are controlled through **accessories, badges, or rings**—physical tools that can summon and dismiss a shadow.
 
-## 影子与人的关系
+## The Relationship Between Shadows and People
 
-影子和人本来是一体的。是后来被切割、被驯化，才分开了。
+Shadows and people were originally one. It was only later—through severance, through taming—that they were separated.
 
-有些人选择与影子"协商"——承认它的存在，尊重它的脾气，建立合作关系。这比驯化更难，但也更接近原本的状态。
+Some choose to "negotiate" with their shadows—acknowledging their existence, respecting their temperament, building a cooperative relationship. This is harder than taming, but closer to the original state.
 
-而有些人...从来没有离开过那个原始的状态。
+And some... never left that primal state at all.
 
 ---
 
-*参见：[[systems/dream-space|梦境空间]] · [[systems/dreamwalking|梦行者]] · [[systems/shadow-disasters|影灾]]*
+*See also: [[systems/dream-space|Dream Space]] · [[systems/dreamwalking|Dreamwalkers]] · [[systems/shadow-disasters|Shadow Disasters]]*

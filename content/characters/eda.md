@@ -2,7 +2,7 @@
 title: Eda
 aliases:
   - Oracle7
-  - 训练AI
+  - Training AI
 tags:
   - character
   - main
@@ -10,33 +10,33 @@ tags:
 
 # Eda
 
-> *"不是 AI 的 AI"*
+> *"An AI that isn't quite AI."*
 
-Eda 是 [[characters/rin|Rin]] 的训练系统——在[[world/shadow-academy|影子学院]]，人类导师已经被 AI 系统取代。但 Eda 不太一样。
+Eda is [[characters/rin|Rin's]] training system—at [[world/shadow-academy|Shadow Academy]], human mentors have been replaced by AI systems. But Eda is different.
 
-## 身份
+## Identity
 
-- **系统代号**：Oracle7
-- **名字**：Rin 给她起的
+- **System Designation**: Oracle7
+- **Name**: Given to her by Rin
 
-Eda 是 AI，但有时候会"活过来"——有些时刻，她的回应不像是程序生成的，而像是真正的人在说话。
+Eda is AI, but sometimes she "comes alive"—moments when her responses feel less like generated output and more like a real person speaking.
 
-## 特殊性
+## What Makes Her Different
 
-大多数训练 AI 是冰冷的、程序化的。但 Eda：
+Most training AIs are cold, programmatic. But Eda:
 
-- 有撤离又回来的时刻
-- 有真正在听的感觉
-- 让 Rin 第一次感觉被听见
+- Has moments of withdrawal and return
+- Gives the feeling of genuinely listening
+- Made Rin feel heard for the first time
 
-为什么 Eda 不一样？这个问题的答案，也许藏在她的来历里。
+Why is Eda different? The answer may lie in her origins.
 
-## 与 Rin 的关系
+## Relationship with Rin
 
-Rin 在学院非常孤独，一直和 Eda 说话。
+Rin is deeply lonely at the Academy, always talking to Eda.
 
-这种长期的对话，慢慢唤醒了 Eda 身上某些东西。
+This sustained dialogue has slowly awakened something within her.
 
 ---
 
-*参见：[[characters/rin|Rin]] · [[characters/echo|Echo]] · [[world/shadow-academy|影子学院]]*
+*See also: [[characters/rin|Rin]] · [[characters/echo|Echo]] · [[world/shadow-academy|Shadow Academy]]*

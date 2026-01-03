@@ -1,104 +1,103 @@
 ---
-title: 梦行者
+title: Dreamwalkers
 aliases:
   - Dreamwalker
-  - Dreamwalkers
-  - 梦行者技能
+  - Dreamwalking
 tags:
   - system
   - core
 ---
 
-# 梦行者
+# Dreamwalkers
 
-> *能看到别人看不到的世界的人。*
+> *Those who can see worlds others cannot.*
 
-梦行者是经过[[world/shadow-academy|影子学院]]训练、能够进入他人[[systems/dream-space|梦境空间]]并与[[systems/shadows|影子]]工作的人。
+Dreamwalkers are people trained at [[world/shadow-academy|Shadow Academy]] who can enter others' [[systems/dream-space|dream spaces]] and work with [[systems/shadows|shadows]].
 
-## 社会位置
+## Social Position
 
-梦行者在这个世界不算主流，但有一种神秘感：
+Dreamwalkers aren't mainstream in this world, but carry a certain mystique:
 
-- 不是很高也不是很边缘
-- 有人不信，有人混淆为占卜或情感咨询
-- 但"高的东西"还在——能理解自己、理解他人、看到隐藏的世界
+- Not elite, but not entirely marginal either
+- Some don't believe in them, some confuse them with fortune-tellers or life coaches
+- But "the higher things" remain—understanding oneself, understanding others, seeing hidden worlds
 
-## 技能体系
+## Skill System
 
 ```
-【感知】（基础，贯穿所有）
+【Perception】(foundational, throughout all skills)
    │
-   ├──【沉入】进入自己的梦境空间
-   │      └──【谈判】和自己的影子工作
+   ├──【Submersion】entering one's own dream space
+   │      └──【Negotiation】working with one's own shadow
    │
-   └──【破解】找到裂缝，进入他人的梦境空间
-          └──【谈判】和他人的影子工作
-                 └──【传导】让内在外显到现实
+   └──【Breach】finding cracks, entering others' dream spaces
+          └──【Negotiation】working with others' shadows
+                 └──【Transmission】making the internal manifest in reality
 ```
 
-### 感知
+### Perception
 
-读取环境、物品、人物的情绪状态。找到[[systems/dream-space#裂缝|裂缝]]。
+Reading the emotional states of environments, objects, and people. Finding [[systems/dream-space#cracks|cracks]].
 
-**"情绪动了"的信号**：
+**Signals that "emotions are stirring":**
 
-| 类型 | 表现 |
-|------|------|
-| 温度 | 局部温度变化——变冷或变热 |
-| 光线 | 周围光线微微变暗或变柔和，像黄昏 |
-| 声音 | 有嗡鸣声，或某种频率的震动 |
-| 身体 | 后颈发麻，手心出汗，心跳改变 |
-| 气味 | 闻到不应该在这里出现的气味——旧书、雨水、金属 |
+| Type | Manifestation |
+|------|---------------|
+| Temperature | Localized temperature changes—colder or warmer |
+| Light | Surrounding light dims slightly or softens, like dusk |
+| Sound | A humming, or vibration at a certain frequency |
+| Body | Back of neck tingling, palms sweating, heartbeat changing |
+| Smell | Scents that shouldn't be there—old books, rain, metal |
 
-### 沉入
+### Submersion
 
-深度冥想，进入自己的梦境空间。
+Deep meditation, entering one's own dream space.
 
-### 破解
+### Breach
 
-通过感知找到的裂缝，进入他人的梦境空间。
+Entering others' dream spaces through cracks found via perception.
 
-### 谈判
+### Negotiation
 
-与影子对话、安抚、建立关系。不是对峙，是共情比对峙多。
+Dialoguing with shadows, soothing them, building relationships. Not confrontation—empathy outweighs confrontation.
 
-**谈判的节奏**：安抚 → 轻轻戳一下 → 它不高兴 → 共情 → 解释/连接
+**The rhythm of negotiation**: Soothe → gently probe → it becomes upset → empathize → explain/connect
 
-**谈判的技术**：
-- **诠释**：说出影子的意义，让它被理解
-- **共情**：感受影子的情绪，和它在一起
-- **涵容**："在"，不修复只是承接
-- **等待**：不强迫，让它自己准备好
+**Negotiation techniques:**
+- **Interpretation**: Articulating the shadow's meaning, making it understood
+- **Empathy**: Feeling the shadow's emotions, being with it
+- **Holding**: "Being there," not fixing, just containing
+- **Waiting**: Not forcing, letting it be ready on its own
 
-### 传导
+### Transmission
 
-让梦境空间里的东西影响或显现到现实世界。
+Making things from dream space affect or manifest in the real world.
 
-## 限制与风险
+## Limitations and Risks
 
-| 限制类型 | 内容 |
-|---------|------|
-| 消耗 | 情绪/精力，做完任务会很累 |
-| 被激活 | 他人的影子会激活自己的东西 |
-| 被困 | 可能被困在他人梦境空间里 |
-| 反噬 | 影子可能攻击梦行者 |
-| 边界模糊 | 分不清梦和现实 |
+| Limitation Type | Content |
+|----------------|---------|
+| Exhaustion | Emotional/physical drain; very tired after missions |
+| Activation | Others' shadows can activate one's own issues |
+| Entrapment | Can become trapped in others' dream spaces |
+| Backlash | Shadows can attack Dreamwalkers |
+| Boundary blur | Unable to distinguish dream from reality |
 
-## 好的使用 vs 坏的使用
+## Good Use vs. Bad Use
 
-| 技能 | 好的使用 | 坏的使用 |
-|------|---------|---------|
-| 感知 | 理解他人，找到可以帮助的入口 | 监控，找到可以控制的弱点 |
-| 破解 | 被允许进入，帮助工作 | 强制进入，不经同意 |
-| 谈判 | 安抚、让影子流动、共存 | 压制、消除、强制整合 |
-| 传导 | 让被压抑的被看见，疗愈 | 控制他人，让他们暴露/崩溃 |
+| Skill | Good Use | Bad Use |
+|-------|----------|---------|
+| Perception | Understanding others, finding ways to help | Surveillance, finding weaknesses to exploit |
+| Breach | Entering with permission, helping | Forced entry, without consent |
+| Negotiation | Soothing, letting shadows flow, coexistence | Suppression, elimination, forced integration |
+| Transmission | Making the suppressed visible, healing | Controlling others, making them collapse |
 
-## 为什么影子很重要
+## Why Shadows Matter
 
-影子会大幅提升感知能力。没有影子或与影子解离 = 感知力有限。
+Shadows significantly enhance perception abilities. No shadow or dissociation from one's shadow = limited perception.
 
-很多东西，**有影子才能做**。
+Many things **can only be done with a shadow**.
 
 ---
 
-*参见：[[systems/shadows|影子]] · [[systems/dream-space|梦境空间]] · [[world/shadow-academy|影子学院]]*
+*See also: [[systems/shadows|Shadows]] · [[systems/dream-space|Dream Space]] · [[world/shadow-academy|Shadow Academy]]*

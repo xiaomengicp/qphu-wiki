@@ -1,7 +1,6 @@
 ---
 title: The Remainder
 aliases:
-  - 余部
   - QF
 tags:
   - world
@@ -10,43 +9,43 @@ tags:
 
 # The Remainder
 
-> *没有被完全格式化的人。*
+> *Those who were never fully formatted.*
 
-The Remainder 是[[world/shadow-academy|影子学院]]内部的一群人。系统可能将他们归类为"非结构性情绪干扰群体"，但他们只是...还记得某些东西的人。
+The Remainder is a group within [[world/shadow-academy|Shadow Academy]]. The system might classify them as a "non-structural emotional disturbance group," but they're simply... people who still remember certain things.
 
-## 他们是谁
+## Who They Are
 
-他们不是反抗军，不是秘密组织。他们只是：
+They're not rebels, not a secret organization. They're just:
 
-- 在学院正常工作的老师、馆长、研究员
-- 保留了某种旧的做事方式
-- 私下做着"真正的"[[systems/dreamwalking|梦行者]]工作
+- Teachers, archivists, researchers working normal jobs at the Academy
+- People who've preserved an older way of doing things
+- Those who do "real" [[systems/dreamwalking|Dreamwalker]] work in private
 
-## 他们做什么
+## What They Do
 
-官方的梦行者工作现在意味着：
-- 驯化影子
-- 执行整合计划
-- 消灭症状
+Official Dreamwalker work now means:
+- Taming shadows
+- Executing the Integration Program
+- Eliminating symptoms
 
-The Remainder 的工作意味着：
-- 与[[systems/shadows|影子]]协商而非驯化
-- 让被压抑的东西流动
-- 保存某些[[world/history#模糊时期|模糊时期]]之前的东西
+The Remainder's work means:
+- Negotiating with [[systems/shadows|shadows]] rather than taming them
+- Letting the suppressed flow
+- Preserving something from before [[world/history#the-blur|The Blur]]
 
-## 空间
+## Space
 
-他们有自己聚会的地方——像独立书店、像地下酒吧的感觉。温暖、边缘、但有生命力。
+They have their own gathering places—spaces that feel like independent bookstores, like underground bars. Warm, marginal, but alive.
 
-## 成员
+## Members
 
-学院里的某些人：
-- 档案馆的馆长
-- 某些导师
-- 看起来普通的研究员
+Certain people at the Academy:
+- The Archives' curator
+- Some mentors
+- Researchers who seem ordinary
 
-从外面看，他们和其他人没什么不同。
+From the outside, they look no different from anyone else.
 
 ---
 
-*参见：[[world/shadow-academy|影子学院]] · [[systems/shadows|影子]] · [[systems/dreamwalking|梦行者]]*
+*See also: [[world/shadow-academy|Shadow Academy]] · [[systems/shadows|Shadows]] · [[systems/dreamwalking|Dreamwalkers]]*

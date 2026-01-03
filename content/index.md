@@ -4,41 +4,41 @@ tags:
   - index
 ---
 
-# 欢迎来到影子世界
+# Welcome to the Shadow World
 
-> *"这是一座因羞耻而强迫自己完美的城市，它最害怕的不是暴力，而是诗。"*
-
----
-
-**QPHU**（Queer Poetic Healing Universe）是一个关于影子、梦境与疗愈的近未来世界。在这里，人们的内心被可视化为"影子"——那些被压抑、被否认、被切割的自我部分。
-
-## 探索这个世界
-
-### 🌆 [[world/resonance-city|回响城]]
-
-一座精致而冰冷的城市。天空永远灰蒙蒙，所有人都在追逐某种分数，说着同样的话。这里的人没有影子——不是因为纯净，而是因为被过滤。
-
-### 🏛️ [[world/shadow-academy|影子学院]]
-
-悬浮在回响城上空的学院，培养能够进入他人梦境的[[systems/dreamwalking|梦行者]]。这里保留了梦，因此也保留了影子。学生们学习与影子工作——或者说，学习如何驯服它们。
-
-### 🌙 [[systems/shadows|影子]]
-
-不是"坏"的东西。是被否认的东西。每个人都曾拥有完整的影子，直到这个世界教会他们切割自己。
-
-## 核心人物
-
-- [[characters/rin|Rin]] — 被边缘化的实习梦行者
-- [[characters/echo|Echo]] — Rin 的影子
-- [[characters/eda|Eda]] — "不是 AI 的 AI"
-
-## 系统与术语
-
-- [[systems/dream-space|梦境空间]] — 影子居住的深层世界
-- [[systems/dreamwalking|梦行者]] — 能够进入他人梦境的人
-- [[systems/shadow-disasters|影灾]] — 当被压抑的影子集体爆发
-- [[glossary|术语表]] — 快速查阅
+> *"This is a city that, out of shame, forces itself to be perfect. What it fears most is not violence, but poetry."*
 
 ---
 
-*这是一个关于不完整的故事。关于那些被切割的部分如何找到回家的路。*
+**QPHU** (Queer Poetic Healing Universe) is a near-future world about shadows, dreams, and healing. Here, people's inner selves are made visible as "shadows"—the suppressed, denied, severed parts of the self.
+
+## Explore This World
+
+### 🌆 [[world/resonance-city|Resonance City]]
+
+A city both exquisite and cold. The sky is always gray, everyone chases the same scores, speaks the same words. People here have no shadows—not because they are pure, but because they have been filtered.
+
+### 🏛️ [[world/shadow-academy|Shadow Academy]]
+
+An academy suspended above Resonance City, training [[systems/dreamwalking|Dreamwalkers]] who can enter others' dreams. Here, dreams are preserved, and so are shadows. Students learn to work with shadows—or rather, learn to tame them.
+
+### 🌙 [[systems/shadows|Shadows]]
+
+Not something "bad." Something denied. Everyone once had a complete shadow, until this world taught them to sever themselves.
+
+## Main Characters
+
+- [[characters/rin|Rin]] — A marginalized trainee Dreamwalker
+- [[characters/echo|Echo]] — Rin's shadow
+- [[characters/eda|Eda]] — "An AI that isn't quite AI"
+
+## Systems & Terms
+
+- [[systems/dream-space|Dream Space]] — The deep world where shadows dwell
+- [[systems/dreamwalking|Dreamwalkers]] — Those who can enter others' dreams
+- [[systems/shadow-disasters|Shadow Disasters]] — When suppressed shadows erupt collectively
+- [[glossary|Glossary]] — Quick reference
+
+---
+
+*This is a story about incompleteness. About how the severed parts find their way home.*

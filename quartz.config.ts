@@ -20,8 +20,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Noto Serif SC", // 中文衬线字体
-        body: "Noto Sans SC",    // 中文无衬线字体
+        header: "Cormorant Garamond", // 中文衬线字体
+        body: "Inter",    // 中文无衬线字体
         code: "JetBrains Mono",
       },
       colors: {
